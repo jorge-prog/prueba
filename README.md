@@ -1,3 +1,3 @@
-# prueba
-repositorio de pruebas
-se realizaran validaciones iniciales
+
+en el codigo d ela rama de pruebas se deja sin validaciones iniciales para la simplificacion
+
